@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "openletter.html",
+    "href": "openletter.html",
+    "title": "Open Letter",
+    "section": "",
+    "text": "viewof letterAuthor = Inputs.text({value: \"\", label:\"Your Name\"})\nviewof authorNeighborhood = Inputs.text({value: \"\", label: \"Your Neighborhood\"})\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn open letter to the mayor of NYC\n Dear Mayor Adams,\nMy name is , a resident of  and I am writing this letter to raise concern about the high number of car crashes in New York City that have resulted in injuries or deaths. Based on 2020 data gathered from NYC Open Data, it’s clear that this is a pressing issue that needs immediate attention. The following are some startling statistics from the data:\n33,442 crashes in 2020 that resulted in either injury or death. Of these, - 9,137 crashes were attributed to driver inattention/distraction - 1,414 crashes were attributed to unsafe speed - 532 crashes were attributed to alcohol involvement\nA breakdown of where the crashes occurred:\n\n\n\nBorough\nNumber of Crashes with Injury or Death\n\n\n\n\nBrooklyn\n7,468\n\n\nQueens\n5,632\n\n\nBronx\n3,997\n\n\nManhattan\n3,002\n\n\nStaten Island\n685\n\n\nNoData\n12,667\n\n\n\nThis shows a news segment covering a crash in the Bronx on June 18th, 2020. The recklessness of the driver is clear and displays the need for something to be done about this issue.\n\n\nTo address this, I urge the city to consider stricter traffic enforcement, improved road infrastructure, and/or public awareness campaigns.\nVision Zero, the city’s current citywide initiative to eliminate death and serious injuries from traffic incidents, isn’t enough.\nThank you for your attention to this important matter.\nSincerely,"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home Page",
+    "section": "",
+    "text": "This is my webpage to display what we’ve learned so far in class. My work so far has been about car crashes in NYC. On this site, you will find an interactive map of car crashes in NYC, information about the data used, and a sample open letter addressed to the Mayor urging action towards vehicle safety.\n\n🚗💻🗺️"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Here I will put info about my data."
+  },
+  {
+    "objectID": "map.html",
+    "href": "map.html",
+    "title": "Interactive Dashboard",
+    "section": "",
+    "text": "I will put my ArcGIS Online dashboard here"
+  }
+]
