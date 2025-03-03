@@ -1,6 +1,0 @@
----
-title: "Data"
-format: html
----
-
-Here I will put info about my data.

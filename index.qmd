@@ -1,7 +1,0 @@
----
-title: "Home Page"
----
-
-This is my webpage to display what we've learned so far in class. My work so far has been about car crashes in NYC. On this site, you will find an interactive map of car crashes in NYC, information about the data used, and a sample open letter addressed to the Mayor urging action towards vehicle safety.\
-\
-🚗💻🗺️
